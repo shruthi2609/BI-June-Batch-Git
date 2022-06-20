@@ -1,0 +1,32 @@
+1. config your username to git
+git config --global user.name yourusername
+
+2. which username is configured
+git config --gloabl user.name
+
+3.
+git config --global user.password yourpassword
+
+init it as a repo
+
+4. git init
+
+
+local repo to remote repo - direct X
+
+local repo - > staging area -> remote
+
+5.staging area :
+(remove from staging area - git rm --cached <file> to unstage
+
+5.1.move the files to staging area one by one
+
+
+2. move all the files
+
+
+
+
+
+
+
