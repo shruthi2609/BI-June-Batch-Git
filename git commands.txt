@@ -20,9 +20,33 @@ local repo - > staging area -> remote
 (remove from staging area - git rm --cached <file> to unstage
 
 5.1.move the files to staging area one by one
-
+git add filename.extn
 
 2. move all the files
+
+git add -A
+
+6. commit phase
+
+git commit -m "commitmessage"
+
+7.created a empty repo in remote - repo name should be same as the local foler name
+
+8.adding remote origin:
+
+git remote add origin githublink
+
+eg: git remote add origin https://github.com/shruthi2609/BI-June-Batch-Git.git
+
+9. git push -u origin branchname
+
+eg: git push -u origin master
+
+
+
+
+
+
 
 
 
