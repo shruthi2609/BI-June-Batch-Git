@@ -42,6 +42,13 @@ eg: git remote add origin https://github.com/shruthi2609/BI-June-Batch-Git.git
 
 eg: git push -u origin master
 
+10.git checkout -b day1html
+creating a new branch
+
+11. git checkout branchname
+
+it will switch between 2 branches
+
 
 
 

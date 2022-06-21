@@ -1,0 +1,39 @@
+single page application
+
+home       contact       gallery
+
+
+home page content
+
+.
+
+
+.
+
+.
+.
+.
+
+
+
+
+gallery
+
+.
+.
+.
+.
+.
+.
+
+contact Us
+.
+
+.
+
+.
+.
+..
+
+
+
