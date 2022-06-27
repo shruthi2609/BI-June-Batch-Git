@@ -119,12 +119,24 @@ while(j>=100){
 do{
     console.log("do while",j)
     j++
-}while(j>=100)*/
+}while(j>=100)
 
 let studentReg=[1001,1002,1003,1004]
 for(let i=0;i<=3;i++){
     console.log(studentReg[i])
 }
+
+for(var i=1;i<=20;i++){//i=2
+    if(i==13){
+       continue
+       console.log("if statement")
+    }
+    else{
+        console.log(i)
+    }
+   
+}
+console.log("outside loop")*/
 
 
 
