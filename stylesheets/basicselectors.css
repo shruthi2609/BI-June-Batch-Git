@@ -1,0 +1,28 @@
+*{
+    background-color: darkorange;
+}
+h1,h2{
+    background-color: aqua;
+    color:red;
+}
+
+.p2divbg,.p1divbg,h3{
+    background-color:maroon;
+}
+
+h3{
+    background-color: crimson;
+}
+.p2divtxt{
+    
+    color:black;
+}
+
+
+
+.p1divtxt{
+    color:blanchedalmond
+}
+/*button{
+    background-color: blue;
+}*/
