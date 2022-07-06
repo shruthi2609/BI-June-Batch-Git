@@ -17,5 +17,28 @@ let strings = ["React Js", "JavaScript", "React Js", "JavaScript",
 ];
 alert( unique(strings) ); // React Js, JavaScript
 
+3.TodoList
+[
+    {
+        "id":0,
+        "taskname":"buy eggs",
+        "completion":true
+    },
+     {
+        "id":1,
+        "taskname":"buy milk",
+        "completion":false
+    },
+]
+
+i) you have to filter elements based on completion status
+ii) function changeCompletion(todoid)
+
+changeCompletion(1){
+
+}
+
+change the completion status
+
 
 

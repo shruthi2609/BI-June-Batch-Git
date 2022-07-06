@@ -1,0 +1,42 @@
+*{
+    background-color: peachpuff;
+}
+h1{
+    background-color: aqua;
+    border-style: dotted;
+    /*border-top-style: dashed ;
+    border-bottom-style: dotted ;*/
+    border-color: red;
+    border-width: 3px;
+    padding-top:10px;
+    padding-bottom: 10px; 
+    margin-bottom:50px;
+}
+h2{
+    background-color: aqua;
+    border-style: dotted;
+    border-color: red;
+    border-width: 3px;
+    margin-bottom:50px;
+}
+button{
+    background-color:palevioletred;
+  /*  padding-top:5px;
+    padding-bottom: 5px;
+    padding-left:15px;
+    padding-right:15px;
+    padding:20px;
+    padding:10px 15px
+    10 for top and botton
+    15px for left and right
+    padding:5px 15px 20px 25px;
+    1st-top 2nd-right 3rd-bottom 4th-left*/
+}
+img{
+    border-style: double;
+    margin-left:15px;
+}
+.gallery{
+    border-style: dotted;
+    
+}
