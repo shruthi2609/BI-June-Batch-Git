@@ -1,0 +1,30 @@
+.div1
+{
+    height: 100px;
+    background-color: aqua;
+    position: relative;
+    top:30px;
+    
+}
+p{
+    position: relative;
+    background-color: bisque;
+    left:10px;
+    top:30px;
+}
+.div2
+{
+    height: 100px;
+    background-color:fuchsia;
+    position: absolute;
+}
+.div3
+{
+    height: 100px;
+    background-color:peru;
+}
+.fx{
+    /*position:fixed*/
+    position:sticky;
+    background-color: cornflowerblue;
+}

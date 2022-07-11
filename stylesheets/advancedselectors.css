@@ -1,0 +1,22 @@
+.container1{
+    background-color: aqua;
+}
+.container2{
+    background-color: palevioletred;
+}
+/*descendant selector
+div p{
+ color: red;
+}*/
+/*child selectors
+li>p{
+    color:chartreuse
+}*/
+/*general sibling selector
+div~p{
+    color:red
+}
+
+p:nth-child(2){
+    background-color:red;
+}*/

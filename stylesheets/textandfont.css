@@ -1,0 +1,83 @@
+
+.top{
+    font-size:  2vw;
+    background-image: url(../Sample\ Pictures/Lighthouse.jpg);
+    background-repeat:no-repeat ;
+    background-color: aquamarine;
+    background-size:cover;
+   /*  background-attachment:fixed;*/
+  /*  background-position:bottom right;*/
+  /*background-position: 700px 250px;
+  background-position: center;*/
+  opacity:1;
+}
+a{
+    text-decoration: none;
+}
+a:link{
+  color:black
+}
+a:visited{
+    color:red
+}
+a:active{
+    color:blue
+}
+nav{
+    margin-bottom: 15px;
+}
+button{
+background-color: peru;
+padding:15px;
+border-radius: 20px;
+}
+button:hover{
+    background-color: aquamarine;
+}
+h1:hover{
+    background-color: white;
+ 
+}
+h1{
+    background-color: aqua;
+    border-style: dotted;
+    /*border-top-style: dashed ;
+    border-bottom-style: dotted ;*/
+    border-color: red;
+    border-width: 3px;
+    padding-top:10px;
+    padding-bottom: 10px; 
+    margin-bottom:50px;
+    text-align:center;
+    text-decoration:underline;
+}
+h2{
+    background-color: aqua;
+    border-style: dotted;
+    border-color: red;
+    border-width: 3px;
+    margin-bottom:50px;
+}
+
+img{
+    border-style: double;
+    margin-left:15px;
+    border-radius: 50%;
+}
+.gallery{
+    border-style: dotted;
+    
+}
+p{
+   
+    text-indent: 20px;
+    word-spacing: 5px;
+    line-height: 30px;
+  /*  text-shadow: 5px 5px grey;*/
+    white-space: pre-wrap;
+    vertical-align: top;
+    font-family: 'Courier New', Courier, monospace;
+    font-style:italic;
+    font-weight:900
+
+}
