@@ -1,0 +1,30 @@
+.child11{
+    background-color: aqua;
+    height: 30vh;
+}
+.child12{
+    background-color: peru;
+    height: 30vh;
+}
+.child13{
+    background-color:palevioletred;
+    height: 30vh;
+}
+@media (min-width:300px) and (max-width:400px){
+    .child11{
+        background-color:black;
+       
+    }
+}
+@media (min-width:401px) and (max-width:750px){
+    .child11{
+        background-color:rgb(224, 28, 28);
+       
+    }
+}
+@media (min-width:751px) and (max-width:1306px){
+    .child11{
+        background-color:rgb(172, 160, 26);
+       
+    }
+}
