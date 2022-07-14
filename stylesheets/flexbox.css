@@ -1,0 +1,47 @@
+.parent-container{
+    max-height:800px;
+    display: flex;
+  flex-wrap:wrap;
+    /* flex-direction: column-reverse;
+     align-content:flex-end;
+      */
+   flex-direction: row;
+   justify-content: space-around;
+ 
+
+}
+.container{
+    height:200px;
+    width:45%;
+   margin-bottom: 10px;
+  /*   margin-right:10px;*/
+}
+.child11{
+    background-color: aqua;
+    
+  /*  flex-grow: 2;*/
+   
+}
+.child12{
+    background-color: peru;
+  
+}
+.child13{
+    background-color:palevioletred;
+
+}
+.child22{
+    background-color: aqua;
+ 
+
+}
+.child23{
+    background-color: peru;
+  
+}
+.child21{
+    background-color:palevioletred;
+    
+  /*  order:1*/
+   
+}

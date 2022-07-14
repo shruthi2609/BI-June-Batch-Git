@@ -1,0 +1,26 @@
+.child11{
+background-color: aqua;
+float:right;
+overflow:auto
+}
+.child12{
+    background-color: peru;
+}
+.container{
+height:300px;
+width:30%
+}
+ul{
+    list-style-position: outside;
+}
+table{
+    border-collapse: collapse;
+    width:50%
+}
+td,th{
+    border:  red 2px solid; 
+   
+}
+caption{
+    caption-side: bottom;
+}

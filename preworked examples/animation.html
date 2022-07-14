@@ -21,10 +21,15 @@
     }
     /* Chrome, Safari, Opera */
     @-webkit-keyframes moveit {
-     /*   from {left: 0;}
+      /* from {left: 0;}
         to {left: 50%;}*/
-          0%   {left:10%;
+          0%   {left:5%;
             background-color: red;}
+          10%{
+            left:10%;
+            background-color: red;
+            bottom:30%;
+          }
          25%  {left:25%;
             background-color:yellow;}
           50%  {left:75%;
@@ -35,16 +40,28 @@
      
     /* Standard syntax */
     @keyframes moveit {
-      /*  from {left: 0;}
+    /*  from {left: 0;}
         to {left: 50%;}*/
-            0%{left:10%;
+        0%   {left:5%;
             background-color: red;}
+          10%{
+            left:10%;
+            background-color: red;
+          }
          25%  {left:25%;
             background-color:yellow;}
           50%  {left:75%;
             background-color: orange;}
           100% {left:100%;
             background-color: green}
+         /*    0%{left:10%;
+            background-color: red;}
+         25%  {left:25%;
+            background-color:yellow;}
+          50%  {left:75%;
+            background-color: orange;}
+          100% {left:100%;
+            background-color: green}*/
     }
 </style>
 </head>
