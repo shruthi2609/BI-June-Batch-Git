@@ -1,0 +1,31 @@
+.child11{
+    background-color: aqua;
+
+   
+}
+.containerchild{
+    height:100px;
+}
+.child12{
+    background-color: peru;
+  
+}
+.child13{
+    background-color:palevioletred;
+
+}
+.child22{
+    background-color: aqua;
+ 
+
+}
+.child23{
+    background-color: peru;
+  
+}
+.child21{
+    background-color:palevioletred;
+    
+  /*  order:1*/
+   
+}
